@@ -33,6 +33,9 @@ Dans le projet vous retrouverez :
 ## Start projet
 
 Pour lancer le projet, activer votre environement avec pyspark de telecharger. Lancer la commande `jupyter notebook` et dirigez vous vers le fichier `societe_vs_covid` dans le dossier `src` du projet.
+
+Exraire les fichiers de `donnees_covid_societes.zip` qu'il faut dezipé dans un dossier avec le meme nom.
+
 Vous pouvez alors executer le notebook
 
 Enjoy :wink: 
